@@ -1,0 +1,8 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.8.0+cpu
+numpy==1.26.4
+scipy==1.13.0
+scikit-learn==1.8.0
+matplotlib==3.8.4
+soundfile==0.13.1
+threadpoolctl>=3,<4
